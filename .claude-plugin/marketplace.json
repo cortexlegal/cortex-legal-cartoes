@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "cortex-legal-cartoes",
+  "description": "Cartões das skills do Cortex Legal. O método de cada skill vem do conector, só para quem está logado no Cortex.",
+  "owner": { "name": "Cortex Legal" },
+  "plugins": [
+    {
+      "name": "cortex-cartoes",
+      "source": "./plugins/cortex-cartoes",
+      "description": "Atalhos das skills do Cortex Legal. Exige o conector Cortex Legal conectado e login no Cortex."
+    }
+  ]
+}
