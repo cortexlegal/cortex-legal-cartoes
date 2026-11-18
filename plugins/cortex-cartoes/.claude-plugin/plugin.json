@@ -1,7 +1,9 @@
 {
   "name": "cortex-cartoes",
   "displayName": "Cortex Legal (cartões)",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Atalhos das skills do Cortex Legal; o método vem do conector, só para quem está logado.",
-  "author": { "name": "Cortex Legal" }
+  "author": {
+    "name": "Cortex Legal"
+  }
 }
