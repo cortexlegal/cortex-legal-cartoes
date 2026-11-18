@@ -1,6 +1,6 @@
 ---
 name: redigir-email
-description: "Redigir e-mails profissionais do dia a dia do advogado, em tom de colega, direto e sem cara de texto automático: resposta a cliente, relatório de status de processo, cobrança de providência, envio de documento. Acionar quando o usuário pedir 'redige um e-mail', 'responde esse e-mail', 'e-mail de status' ou 'cobra a providência por e-mail'. Não envia o e-mail: entrega o texto."
+description: "Redigir e-mails profissionais do dia a dia do advogado, em tom de colega, direto e sem cara de texto automático: resposta a cliente, relatório de status de processo, cobrança de providência, envio de documento. Acionar quando o usuário pedir 'redige um e-mail', 'responde esse e-mail', 'e-mail de status', 'manda um e-mail para...', 'atualiza o cliente por e-mail', 'cobra a providência por e-mail' ou colar um rascunho de e-mail para revisar antes do envio. Não envia o e-mail: entrega o texto."
 ---
 
 # redigir-email (pelo Cortex Legal)

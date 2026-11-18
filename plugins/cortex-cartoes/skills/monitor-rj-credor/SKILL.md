@@ -1,6 +1,6 @@
 ---
 name: monitor-rj-credor
-description: "Julgar os alertas das recuperações judiciais e falências em que o cliente é credor: conferir a premissa de cada alerta, calcular a data-limite em dias corridos e propor a retomada das execuções no fim do stay. Acionar quando o usuário pedir 'o que mudou nas RJs', 'tem decisão nova que afete o crédito', 'prazos das recuperações' ou 'rodar o monitor de RJ'. Não redige peça nem audita um processo isolado."
+description: "Julgar os alertas das recuperações judiciais e falências em que o cliente é credor: conferir a premissa de cada alerta, calcular a data-limite em dias corridos e propor a retomada das execuções no fim do stay. Acionar quando o usuário pedir 'o que mudou nas RJs', 'tem decisão nova que afete o crédito', 'prazos das recuperações', 'monitorar as RJs' ou 'rodar o monitor de RJ'. Não redige peça nem audita um processo isolado."
 ---
 
 # monitor-rj-credor (pelo Cortex Legal)

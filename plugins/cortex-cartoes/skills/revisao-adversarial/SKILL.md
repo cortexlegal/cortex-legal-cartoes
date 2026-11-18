@@ -1,6 +1,6 @@
 ---
 name: revisao-adversarial
-description: "Atacar uma peça já redigida, antes do protocolo, por três olhares: o advogado do adversário (a manifestação que ele protocolaria), o juízo (a decisão que defere, parando onde não consegue) e a serventia que teria de cumprir a ordem. Acionar quando o usuário pedir 'atacar essa peça', 'ver se tem furo', 'conferir se o juiz decide com isso' ou 'o cartório cumpre isso?'. Rodar em conversa nova, com a peça e os documentos colados ou anexados. Não redige nem corrige: entrega achados."
+description: "Atacar uma peça já redigida, antes do protocolo, por três olhares: o advogado do adversário (a manifestação que ele protocolaria), o juízo (a decisão que defere, parando onde não consegue) e a serventia que teria de cumprir a ordem. Acionar quando o usuário pedir 'atacar essa peça', 'ver se tem furo', 'conferir se o juiz decide com isso' ou 'o cartório cumpre isso?'. Rodar em conversa nova, com a peça e os documentos colados ou anexados. Conferir fatos, contas, tese e precedentes é da revisão técnica. Não redige nem corrige: entrega achados."
 ---
 
 # revisao-adversarial (pelo Cortex Legal)

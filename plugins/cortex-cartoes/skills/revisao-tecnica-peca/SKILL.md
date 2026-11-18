@@ -1,6 +1,6 @@
 ---
 name: revisao-tecnica-peca
-description: "Revisar tecnicamente uma peça pronta, própria ou de colega: conferir os fatos contra os documentos, as contas, a tese, os dispositivos legais e os precedentes citados, e apontar cada correção com o trecho atual e o trecho proposto. Acionar quando o usuário pedir 'revisar a peça', 'conferir os fatos', 'conferir a tese', 'vê se está certo' ou 'conferir os precedentes'. Não redige a peça do zero."
+description: "Revisar tecnicamente uma peça pronta, própria ou de colega: conferir os fatos contra os documentos, as contas, a tese, os dispositivos legais e os precedentes citados, e apontar cada correção com o trecho atual e o trecho proposto. Acionar quando o usuário pedir 'revisar a peça', 'conferir os fatos', 'conferir a tese', 'vê se está certo' ou 'conferir os precedentes'. Pedido de 'atacar a peça' ou 'ver se tem furo' é da revisão adversarial. Não redige a peça do zero."
 ---
 
 # revisao-tecnica-peca (pelo Cortex Legal)
