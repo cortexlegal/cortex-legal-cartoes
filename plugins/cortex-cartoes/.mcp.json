@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cortex-legal": {
+      "type": "http",
+      "url": "https://beta.cortexlegal.net.br/mcp"
+    }
+  }
+}
